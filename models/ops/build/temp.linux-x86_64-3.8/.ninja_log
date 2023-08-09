@@ -1,0 +1,4 @@
+# ninja log v5
+1	3165	1671895132000000000	/public/data0/CV/users/lanmeng5/SCIS/ReferFormer/models/ops/build/temp.linux-x86_64-3.8/public/data0/CV/users/lanmeng5/SCIS/ReferFormer/models/ops/src/cpu/ms_deform_attn_cpu.o	b0636b96af4e75e1
+1	18270	1671895147000000000	/public/data0/CV/users/lanmeng5/SCIS/ReferFormer/models/ops/build/temp.linux-x86_64-3.8/public/data0/CV/users/lanmeng5/SCIS/ReferFormer/models/ops/src/vision.o	ecf5afaaf13e58c9
+1	37780	1671895166000000000	/public/data0/CV/users/lanmeng5/SCIS/ReferFormer/models/ops/build/temp.linux-x86_64-3.8/public/data0/CV/users/lanmeng5/SCIS/ReferFormer/models/ops/src/cuda/ms_deform_attn_cuda.o	f65d86d36c531f1e
