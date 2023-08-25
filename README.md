@@ -1,4 +1,4 @@
-The official implementation of the [**STHQ**] (https://www.sciengine.com/SSI/doi/10.1360/SSI-2023-0030;JSESSIONID=bd630429-84e7-4dc5-aa63-89639d14d478):
+The official implementation of the [**STHQ**](https://www.sciengine.com/SSI/doi/10.1360/SSI-2023-0030;JSESSIONID=bd630429-84e7-4dc5-aa63-89639d14d478):
 
 <div align="center">
 <h1>
